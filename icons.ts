@@ -150,5 +150,13 @@ export let icons = [
     {
         value: '&#xe925',
         title: 'Uomo'
+    },
+    {
+        value: '&#xe931',
+        title: 'Desktop'
+    },
+    {
+        value: '&#xe932',
+        title: 'Shapes'
     }
 ]
