@@ -128,6 +128,58 @@ export let icons = [
         title: 'MiniEscavatore'
     },
     {
+        value: '&#xe933',
+        title: 'Autoarticolato'
+    },
+    {
+        value: '&#xe934',
+        title: 'Autocarro 3 Assi'
+    },
+    {
+        value: '&#xe935',
+        title: 'Autogru'
+    },
+    {
+        value: '&#xe936',
+        title: 'Dumper'
+    },
+    {
+        value: '&#xe937',
+        title: 'Escavatore Gommato'
+    },
+    {
+        value: '&#xe938',
+        title: 'Fresatrice'
+    },
+    {
+        value: '&#xe939',
+        title: 'Furgone Attrezzato'
+    },
+    {
+        value: '&#xe93a',
+        title: 'Impianto Frantumazione'
+    },
+    {
+        value: '&#xe93b',
+        title: 'Pala Cingolata'
+    },
+    {
+        value: '&#xe93c',
+        title: 'Pulmino'
+    },
+    {
+        value: '&#xe93d',
+        title: 'Ruspa'
+    },
+    {
+        value: '&#xe93e',
+        title: 'Terna'
+    },
+    {
+        value: '&#xe93f',
+        title: 'Vibrofinitrice'
+    },
+    {
         value: '&#xe920',
         title: 'MiniPala'
     },

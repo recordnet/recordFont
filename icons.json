@@ -1,154 +1,198 @@
 [
     {
+        "value": "&#xe908;",
+        "title": "Predefinita"
+    },
+    {
         "value": "&#xe900;",
-        "label": "Aereo"
+        "title": "Aereo"
     },
     {
         "value": "&#xe901;",
-        "label": "Ambulanza"
+        "title": "Ambulanza"
     },
     {
         "value": "&#xe902;",
-        "label": "Arbre-Magique"
+        "title": "Arbre Magique"
     },
     {
         "value": "&#xe903;",
-        "label": "Auto"
+        "title": "Auto"
     },
     {
         "value": "&#xe904;",
-        "label": "Batteria"
+        "title": "Batteria"
     },
     {
         "value": "&#xe905;",
-        "label": "Bicicletta"
+        "title": "Bicicletta"
     },
     {
         "value": "&#xe906;",
-        "label": "Bus"
-    },
-    {
-        "value": "&#xe907;",
-        "label": "Cacca"
-    },
-    {
-        "value": "&#xe908;",
-        "label": "Camion"
+        "title": "Bus"
     },
     {
         "value": "&#xe909;",
-        "label": "Camion2"
+        "title": "Camion 2"
     },
     {
         "value": "&#xe90a;",
-        "label": "Caravan"
+        "title": "Caravan"
     },
     {
         "value": "&#xe90b;",
-        "label": "Carrello-montacarichi"
+        "title": "Carrello Montacarichi"
     },
     {
         "value": "&#xe90c;",
-        "label": "Elicottero"
+        "title": "Elicottero"
     },
     {
         "value": "&#xe90d;",
-        "label": "Jet"
+        "title": "Jet"
     },
     {
         "value": "&#xe90e;",
-        "label": "LocationMappa"
+        "title": "LocationMappa"
     },
     {
         "value": "&#xe90f;",
-        "label": "MarkerMappa"
+        "title": "MarkerMappa"
     },
     {
         "value": "&#xe910;",
-        "label": "MarkerMappa2"
+        "title": "MarkerMappa 2"
     },
     {
         "value": "&#xe911;",
-        "label": "Monster"
+        "title": "Monster Truck"
     },
     {
         "value": "&#xe912;",
-        "label": "Motocicletta"
+        "title": "Motocicletta"
     },
     {
         "value": "&#xe913;",
-        "label": "Nave"
-    },
-    {
-        "value": "&#xe914;",
-        "label": "Persona-Ceca"
+        "title": "Nave"
     },
     {
         "value": "&#xe915;",
-        "label": "Pickup"
+        "title": "Pickup"
     },
     {
         "value": "&#xe916;",
-        "label": "PinMappa"
+        "title": "Pin Mappa"
     },
     {
         "value": "&#xe917;",
-        "label": "PinMappa2"
+        "title": "Pin Mappa 2"
     },
     {
         "value": "&#xe918;",
-        "label": "Razzo"
+        "title": "Razzo"
     },
     {
         "value": "&#xe919;",
-        "label": "Rimorchio"
+        "title": "Rimorchio"
     },
     {
         "value": "&#xe91a;",
-        "label": "Spalaneve"
+        "title": "Spalaneve"
     },
     {
         "value": "&#xe91b;",
-        "label": "Trattore"
+        "title": "Trattore"
     },
     {
         "value": "&#xe91c;",
-        "label": "Van"
+        "title": "Van"
     },
     {
         "value": "&#xe91d",
-        "label": "Autocarrata"
+        "title": "Piattaforma"
     },
     {
         "value": "&#xe91e",
-        "label": "Escavatore"
+        "title": "Escavatore"
     },
     {
         "value": "&#xe91f",
-        "label": "MiniEscavatore"
+        "title": "MiniEscavatore"
+    },
+    {
+        "value": "&#xe933",
+        "title": "Autoarticolato"
+    },
+    {
+        "value": "&#xe934",
+        "title": "Autocarro 3 Assi"
+    },
+    {
+        "value": "&#xe935",
+        "title": "Autogru"
+    },
+    {
+        "value": "&#xe936",
+        "title": "Dumper"
+    },
+    {
+        "value": "&#xe937",
+        "title": "Escavatore Gommato"
+    },
+    {
+        "value": "&#xe938",
+        "title": "Fresatrice"
+    },
+    {
+        "value": "&#xe939",
+        "title": "Furgone Attrezzato"
+    },
+    {
+        "value": "&#xe93a",
+        "title": "Impianto Frantumazione"
+    },
+    {
+        "value": "&#xe93b",
+        "title": "Pala Cingolata"
+    },
+    {
+        "value": "&#xe93c",
+        "title": "Pulmino"
+    },
+    {
+        "value": "&#xe93d",
+        "title": "Ruspa"
+    },
+    {
+        "value": "&#xe93e",
+        "title": "Terna"
+    },
+    {
+        "value": "&#xe93f",
+        "title": "Vibrofinitrice"
     },
     {
         "value": "&#xe920",
-        "label": "MiniPala"
+        "title": "MiniPala"
     },
     {
         "value": "&#xe921",
-        "label": "Muletto"
+        "title": "Muletto"
     },
     {
         "value": "&#xe922",
-        "label": "PalaGommata"
+        "title": "PalaGommata"
     },
     {
         "value": "&#xe923",
-        "label": "RulloCompattatore"
+        "title": "RulloCompattatore"
     },
     {
         "value": "&#xe924",
-        "label": "SollevatoreTelescopico"
+        "title": "SollevatoreTelescopico"
     },
     {
         "value": "&#xe925",
-        "label": "Uomo a piedi"
+        "title": "Uomo"
     }
 ]
