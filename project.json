@@ -8,12 +8,28 @@
     {
       "selection": [
         {
+          "order": 172,
+          "id": 31,
+          "name": "Temperatura",
+          "prevSize": 32,
+          "code": 59729,
+          "tempChar": ""
+        },
+        {
+          "order": 173,
+          "id": 30,
+          "name": "Autista",
+          "prevSize": 32,
+          "code": 59730,
+          "tempChar": ""
+        },
+        {
           "order": 171,
           "id": 29,
           "name": "Truck-moving",
           "prevSize": 32,
           "code": 59725,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 168,
@@ -21,7 +37,7 @@
           "name": "Dot",
           "prevSize": 32,
           "code": 59726,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 169,
@@ -29,7 +45,7 @@
           "name": "Clock",
           "prevSize": 32,
           "code": 59727,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 170,
@@ -37,7 +53,7 @@
           "name": "Stop",
           "prevSize": 32,
           "code": 59728,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 167,
@@ -45,7 +61,7 @@
           "name": "battery-empty-solid",
           "prevSize": 32,
           "code": 59712,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 164,
@@ -53,7 +69,7 @@
           "name": "battery-quarter-solid",
           "prevSize": 32,
           "code": 59713,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 165,
@@ -61,7 +77,7 @@
           "name": "battery-half-solid",
           "prevSize": 32,
           "code": 59714,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 163,
@@ -69,7 +85,7 @@
           "name": "battery-three-quarters-solid",
           "prevSize": 32,
           "code": 59715,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 166,
@@ -77,7 +93,7 @@
           "name": "battery-full-solid",
           "prevSize": 32,
           "code": 59716,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 162,
@@ -85,7 +101,7 @@
           "name": "Calendario",
           "prevSize": 32,
           "code": 59717,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 161,
@@ -93,7 +109,7 @@
           "name": "Messaggio",
           "prevSize": 32,
           "code": 59718,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 160,
@@ -101,7 +117,7 @@
           "name": "Fingerprint",
           "prevSize": 32,
           "code": 59719,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 158,
@@ -109,7 +125,7 @@
           "name": "Strada",
           "prevSize": 32,
           "code": 59720,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 157,
@@ -117,7 +133,7 @@
           "name": "satellite-dish-solid",
           "prevSize": 32,
           "code": 59721,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 156,
@@ -125,7 +141,7 @@
           "name": "Tachimetro",
           "prevSize": 32,
           "code": 59722,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 155,
@@ -133,7 +149,7 @@
           "name": "Tag",
           "prevSize": 32,
           "code": 59723,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 139,
@@ -141,7 +157,7 @@
           "name": "Desktop",
           "prevSize": 32,
           "code": 59697,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 138,
@@ -149,7 +165,7 @@
           "name": "Shapes",
           "prevSize": 32,
           "code": 59698,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 87,
@@ -157,7 +173,7 @@
           "name": "Utente",
           "prevSize": 32,
           "code": 59686,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 88,
@@ -165,7 +181,7 @@
           "name": "Notifica",
           "prevSize": 32,
           "code": 59687,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 89,
@@ -173,7 +189,7 @@
           "name": "Grafici",
           "prevSize": 32,
           "code": 59688,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 90,
@@ -181,7 +197,7 @@
           "name": "Impostazioni",
           "prevSize": 32,
           "code": 59689,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 91,
@@ -189,7 +205,7 @@
           "name": "Centra",
           "prevSize": 32,
           "code": 59690,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 92,
@@ -197,7 +213,7 @@
           "name": "Mappa",
           "prevSize": 32,
           "code": 59691,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 93,
@@ -205,7 +221,7 @@
           "name": "Tracciato",
           "prevSize": 32,
           "code": 59692,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 94,
@@ -213,7 +229,7 @@
           "name": "RSS",
           "prevSize": 32,
           "code": 59693,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 95,
@@ -221,7 +237,7 @@
           "name": "Satellite",
           "prevSize": 32,
           "code": 59694,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 96,
@@ -229,7 +245,7 @@
           "name": "Tabella",
           "prevSize": 32,
           "code": 59695,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 153,
@@ -237,7 +253,7 @@
           "name": "Tacho",
           "prevSize": 32,
           "code": 59696,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 159,
@@ -245,14 +261,14 @@
           "name": "hand-middle-finger-solid",
           "prevSize": 32,
           "code": 59724,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 2,
       "metadata": {
         "name": "UI Icons",
         "importSize": {
-          "width": 640,
+          "width": 512,
           "height": 512
         },
         "designer": "recorditalia.net"
@@ -260,6 +276,37 @@
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 31,
+          "paths": [
+            "M832 0c-105.8 0-192 86.2-192 192s86.2 192 192 192 192-86.2 192-192-86.2-192-192-192zM832 256c-35.4 0-64-28.6-64-64s28.6-64 64-64 64 28.6 64 64-28.6 64-64 64zM512 224c0-123.8-100.2-224-224-224s-224 100.2-224 224v333c-39.4 49.4-64 111-64 179 0 159 129 288 288 288s288-129 288-288c0-68-24.6-129.8-64-179v-333zM288 896c-88.2 0-160-71.8-160-160 0-51 24.4-97.8 64-127.6v-384.4c0-53 43-96 96-96s96 43 96 96v384.4c39.6 29.6 64 76.6 64 127.6 0 88.2-71.8 160-160 160zM320 645.8v-37.8c0-17.6-14.4-32-32-32s-32 14.4-32 32v37.8c-37.2 13.2-64 48.4-64 90.2 0 53 43 96 96 96s96-43 96-96c0-41.8-26.8-77-64-90.2z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "temperature-low-solid"
+          ]
+        },
+        {
+          "id": 30,
+          "paths": [
+            "M128 448h27c49.4 113 161.8 192 293 192s243.6-79 293-192h27c17.6 0 32-14.4 32-32v-192c0-17.6-14.4-32-32-32h-27c-49.4-113-161.8-192-293-192s-243.6 79-293 192h-27c-17.6 0-32 14.4-32 32v192c0 17.6 14.4 32 32 32zM208 272c0-44.2 43-80 96-80h288c53 0 96 35.8 96 80v48c0 106-86 192-192 192h-96c-106 0-192-86-192-192v-48zM352 416l24-72 72-24-72-24-24-72-24 72-72 24 72 24 24 72zM655.2 642.8c-59.8 38.6-130.8 61.2-207.2 61.2s-147.4-22.6-207.2-61.2c-135 14.2-240.8 127.2-240.8 266v19.2c0 53 43 96 96 96h160v-128c0-35.4 28.6-64 64-64h256c35.4 0 64 28.6 64 64v128h160c53 0 96-43 96-96v-19.2c0-138.8-105.8-251.8-240.8-266zM544 896c-17.6 0-32 14.4-32 32s14.4 32 32 32 32-14.4 32-32-14.4-32-32-32zM352 896c-17.6 0-32 14.4-32 32v96h64v-96c0-17.6-14.4-32-32-32z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "width": 896,
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "user-astronaut-solid"
+          ]
+        },
         {
           "id": 29,
           "paths": [
@@ -760,7 +807,7 @@
           "name": "Autoarticolato",
           "prevSize": 32,
           "code": 59699,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 142,
@@ -768,7 +815,7 @@
           "name": "Autocarro-3-assi",
           "prevSize": 32,
           "code": 59700,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 143,
@@ -776,7 +823,7 @@
           "name": "Autogru",
           "prevSize": 32,
           "code": 59701,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 144,
@@ -784,7 +831,7 @@
           "name": "Dumper",
           "prevSize": 32,
           "code": 59702,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 145,
@@ -792,7 +839,7 @@
           "name": "Escavatore-gommato",
           "prevSize": 32,
           "code": 59703,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 146,
@@ -800,7 +847,7 @@
           "name": "Fresatrice",
           "prevSize": 32,
           "code": 59704,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 147,
@@ -808,7 +855,7 @@
           "name": "Furgone-attrezzato",
           "prevSize": 32,
           "code": 59705,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 140,
@@ -816,7 +863,7 @@
           "name": "Impianto-frantumazione",
           "prevSize": 32,
           "code": 59706,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 148,
@@ -824,7 +871,7 @@
           "name": "Pala-cingolata",
           "prevSize": 32,
           "code": 59707,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 149,
@@ -832,7 +879,7 @@
           "name": "Pulmino",
           "prevSize": 32,
           "code": 59708,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 150,
@@ -840,7 +887,7 @@
           "name": "Ruspa",
           "prevSize": 32,
           "code": 59709,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 151,
@@ -848,7 +895,7 @@
           "name": "Terna",
           "prevSize": 32,
           "code": 59710,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 152,
@@ -856,7 +903,7 @@
           "name": "Vibrofinitrice",
           "prevSize": 32,
           "code": 59711,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 105,
@@ -864,7 +911,7 @@
           "name": "Uomo-in-piedi",
           "prevSize": 32,
           "code": 59685,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 106,
@@ -872,7 +919,7 @@
           "name": "Autocarrata",
           "prevSize": 32,
           "code": 59677,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 98,
@@ -880,7 +927,7 @@
           "name": "Escavatore",
           "prevSize": 32,
           "code": 59678,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 99,
@@ -888,7 +935,7 @@
           "name": "MiniEscavatore",
           "prevSize": 32,
           "code": 59679,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 100,
@@ -896,7 +943,7 @@
           "name": "MiniPala",
           "prevSize": 32,
           "code": 59680,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 101,
@@ -904,7 +951,7 @@
           "name": "Muletto",
           "prevSize": 32,
           "code": 59681,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 102,
@@ -912,7 +959,7 @@
           "name": "PalaGommata",
           "prevSize": 32,
           "code": 59682,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 103,
@@ -920,7 +967,7 @@
           "name": "RulloCompattatore",
           "prevSize": 32,
           "code": 59683,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 104,
@@ -928,7 +975,7 @@
           "name": "SollevatoreTelescopico",
           "prevSize": 32,
           "code": 59684,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -1342,7 +1389,7 @@
           "name": "Aereo",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 108,
@@ -1350,7 +1397,7 @@
           "name": "Ambulanza",
           "prevSize": 32,
           "code": 59649,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 109,
@@ -1358,7 +1405,7 @@
           "name": "Arbre-Magique",
           "prevSize": 32,
           "code": 59650,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 110,
@@ -1366,7 +1413,7 @@
           "name": "Auto",
           "prevSize": 32,
           "code": 59651,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 111,
@@ -1374,7 +1421,7 @@
           "name": "Batteria",
           "prevSize": 32,
           "code": 59652,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 112,
@@ -1382,7 +1429,7 @@
           "name": "Bicicletta",
           "prevSize": 32,
           "code": 59653,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 113,
@@ -1390,7 +1437,7 @@
           "name": "Bus",
           "prevSize": 32,
           "code": 59654,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 114,
@@ -1398,7 +1445,7 @@
           "name": "Cacca",
           "prevSize": 32,
           "code": 59655,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 154,
@@ -1406,7 +1453,7 @@
           "name": "Camion",
           "prevSize": 32,
           "code": 59656,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 116,
@@ -1414,7 +1461,7 @@
           "name": "Camion2",
           "prevSize": 32,
           "code": 59657,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 117,
@@ -1422,7 +1469,7 @@
           "name": "Caravan",
           "prevSize": 32,
           "code": 59658,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 118,
@@ -1430,7 +1477,7 @@
           "name": "Carrello-montacarichi",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 119,
@@ -1438,7 +1485,7 @@
           "name": "Elicottero",
           "prevSize": 32,
           "code": 59660,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 120,
@@ -1446,7 +1493,7 @@
           "name": "Jet",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 121,
@@ -1454,7 +1501,7 @@
           "name": "LocationMappa",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 122,
@@ -1462,7 +1509,7 @@
           "name": "MarkerMappa",
           "prevSize": 32,
           "code": 59663,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 123,
@@ -1470,7 +1517,7 @@
           "name": "MarkerMappa2",
           "prevSize": 32,
           "code": 59664,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 124,
@@ -1478,7 +1525,7 @@
           "name": "Monster",
           "prevSize": 32,
           "code": 59665,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 125,
@@ -1486,7 +1533,7 @@
           "name": "Motocicletta",
           "prevSize": 32,
           "code": 59666,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 126,
@@ -1494,7 +1541,7 @@
           "name": "Nave",
           "prevSize": 32,
           "code": 59667,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 127,
@@ -1502,7 +1549,7 @@
           "name": "Persona-Ceca",
           "prevSize": 32,
           "code": 59668,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 128,
@@ -1510,7 +1557,7 @@
           "name": "Pickup",
           "prevSize": 32,
           "code": 59669,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 129,
@@ -1518,7 +1565,7 @@
           "name": "PinMappa",
           "prevSize": 32,
           "code": 59670,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 130,
@@ -1526,7 +1573,7 @@
           "name": "PinMappa2",
           "prevSize": 32,
           "code": 59671,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 131,
@@ -1534,7 +1581,7 @@
           "name": "Razzo",
           "prevSize": 32,
           "code": 59672,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 132,
@@ -1542,7 +1589,7 @@
           "name": "Rimorchio",
           "prevSize": 32,
           "code": 59673,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 133,
@@ -1550,7 +1597,7 @@
           "name": "Spalaneve",
           "prevSize": 32,
           "code": 59674,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 134,
@@ -1558,7 +1605,7 @@
           "name": "Trattore",
           "prevSize": 32,
           "code": 59675,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 135,
@@ -1566,7 +1613,7 @@
           "name": "Van",
           "prevSize": 32,
           "code": 59676,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
