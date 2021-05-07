@@ -202,5 +202,25 @@ export let icons = [
     {
         value: '&#xe925',
         title: 'Uomo'
+    },
+    {
+        value: '&#xe953',
+        title: 'Irrigatore'
+    },
+    {
+        value: '&#xe954',
+        title: 'Pickup'
+    },
+    {
+        value: '&#xe955',
+        title: 'Rotopressa'
+    },
+    {
+        value: '&#xe956',
+        title: 'Torrefaro'
+    },
+    {
+        value: '&#xe957',
+        title: 'Gruppo Elettrogeno'
     }
-]
+];
